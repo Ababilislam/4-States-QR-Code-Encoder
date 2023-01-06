@@ -1,0 +1,5 @@
+John Gibson
+203002050
+BSc in CSE
+CGPA:3.65
+Grade:A-

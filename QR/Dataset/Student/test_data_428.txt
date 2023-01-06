@@ -1,0 +1,5 @@
+Homer George
+222002428
+BBA
+CGPA:3.18
+Grade:B

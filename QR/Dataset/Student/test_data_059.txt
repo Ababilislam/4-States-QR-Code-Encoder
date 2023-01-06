@@ -1,0 +1,5 @@
+Harvey Marshall
+203002059
+BSc in CSE
+CGPA:3.05
+Grade:B

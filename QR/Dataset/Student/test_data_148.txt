@@ -1,0 +1,5 @@
+Ford Jensen
+203015148
+BBA
+CGPA:3.77
+Grade:A

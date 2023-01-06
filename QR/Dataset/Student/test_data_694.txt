@@ -1,0 +1,5 @@
+Floyd Ray
+223015694
+BSc in CSE
+CGPA:3.8
+Grade:A
