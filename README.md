@@ -19,6 +19,7 @@ for running this package in user device user need to follow
 3. after opening the file click on the run button to run the program.
 4. in time of running the program user may need to change the dataset changing data set information are given in the program as comments
 5. always try to use absulute path of a file location to be 100% sure that file are correctly called.
+6. note this one is Development alpha version so only version 1 and 2 can be usable by this code.upper version are locked for confidentiality.
 
 #  project contributors
 1. ABABIL ISLAM UDOY E-mail: ababilislamudoy@gmail.com Contract no: +8801521508714
